@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/bin/Debug/net8.0/Greeting
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/bin/Debug/net8.0/Greeting.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/bin/Debug/net8.0/Greeting.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/bin/Debug/net8.0/Greeting.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/bin/Debug/net8.0/Greeting.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/Greeting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/Greeting.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/Greeting.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/Greeting.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/Greeting.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/Greeting.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/refint/Greeting.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/Greeting.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/Greeting.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/Greeting/obj/Debug/net8.0/ref/Greeting.dll

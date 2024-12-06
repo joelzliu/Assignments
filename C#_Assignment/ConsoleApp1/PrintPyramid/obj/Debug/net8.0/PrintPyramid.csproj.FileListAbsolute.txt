@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/bin/Debug/net8.0/PrintPyramid
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/bin/Debug/net8.0/PrintPyramid.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/bin/Debug/net8.0/PrintPyramid.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/bin/Debug/net8.0/PrintPyramid.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/bin/Debug/net8.0/PrintPyramid.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/PrintPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/PrintPyramid.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/PrintPyramid.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/PrintPyramid.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/PrintPyramid.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/PrintPyramid.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/refint/PrintPyramid.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/PrintPyramid.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/PrintPyramid.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/PrintPyramid/obj/Debug/net8.0/ref/PrintPyramid.dll

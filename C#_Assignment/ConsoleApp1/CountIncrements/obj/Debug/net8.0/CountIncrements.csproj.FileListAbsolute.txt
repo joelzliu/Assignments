@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/bin/Debug/net8.0/CountIncrements
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/bin/Debug/net8.0/CountIncrements.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/bin/Debug/net8.0/CountIncrements.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/bin/Debug/net8.0/CountIncrements.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/bin/Debug/net8.0/CountIncrements.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/CountIncrements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/CountIncrements.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/CountIncrements.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/CountIncrements.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/CountIncrements.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/CountIncrements.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/refint/CountIncrements.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/CountIncrements.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/CountIncrements.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CountIncrements/obj/Debug/net8.0/ref/CountIncrements.dll

@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/bin/Debug/net8.0/CalculateDays
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/bin/Debug/net8.0/CalculateDays.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/bin/Debug/net8.0/CalculateDays.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/bin/Debug/net8.0/CalculateDays.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/bin/Debug/net8.0/CalculateDays.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/CalculateDays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/CalculateDays.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/CalculateDays.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/CalculateDays.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/CalculateDays.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/CalculateDays.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/refint/CalculateDays.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/CalculateDays.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/CalculateDays.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/CalculateDays/obj/Debug/net8.0/ref/CalculateDays.dll
