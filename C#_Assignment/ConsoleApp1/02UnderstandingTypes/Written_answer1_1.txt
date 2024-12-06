@@ -1,0 +1,48 @@
+Question 1:
+A person’s telephone number 
+    - string
+A person’s height 
+    - float
+A person’s age 
+    - int
+A person’s gender (Male, Female, Prefer Not To Answer) 
+    - enum
+A person’s salary
+    - decimal
+A book’s ISBN 
+    - String
+A book’s price
+    - decimal
+A book’s shipping weight
+    - float
+A country’s population
+    - long
+The number of stars in the universe
+    - double
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business)
+    - int
+
+
+Question 2:
+Differences between values type and references type variables includes:
+1.Value type will hold the value while reference type will hold the memory address or reference for this value. 
+2. Value types are stored in stack memory while reference types are stored in heap memory. 
+3. Value type will not be collected by the garbage collector but reference type will be collected by the garbage collector. 
+4. The value type can be created by struct or enum while reference type will be created by class, interface, delegate or array. 
+5. Value type can not accept null values whereas reference type can accept null values.
+
+Boxing represents the conversion of the value type to the reference type/object type 
+Unboxing represents the conversion of the reference type to the value type
+
+
+Question 3:
+They are related to memory management.
+Managed resource is the resource handled by the .NET runtime and garbage collector.
+Unmanaged resource is not directly handled by the .NET runtime, and it requires explicit cleanup using Dispose() method of IDisposable interface
+
+
+Question 4:
+The garbage collector manages the allocation and release of memory for an application.
+This means that we don't have to write code to perform memory management tasks. 
+Automatic memory management can eliminate common problems, such as forgetting to free an object and causing a memory leak or attempting to access memory for an object that's already been freed.
