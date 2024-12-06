@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrintPyramid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb39c8e2376b737192ed70d506eafdfd0730020")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d230fa5b571f65eaaf4513efeb7b62d6c372b75d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrintPyramid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrintPyramid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
