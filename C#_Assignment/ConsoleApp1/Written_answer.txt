@@ -107,7 +107,7 @@ statement?
     - It must implement System.Collections.IEnumerable or System.Collections.Generic.IEnumerable<T> to use the foreach.
 
 
-Question 
+Question in coding:
 The given will cause indefinite loop, because byte ranges from 0 to 255.
 When i exceeds 255, it will wrap around to 0 and increase again and again.
 
