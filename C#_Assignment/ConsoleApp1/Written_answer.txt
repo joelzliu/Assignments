@@ -1,0 +1,124 @@
+Question 1:
+A person’s telephone number 
+    - string
+A person’s height 
+    - float
+A person’s age 
+    - int
+A person’s gender (Male, Female, Prefer Not To Answer) 
+    - enum
+A person’s salary
+    - decimal
+A book’s ISBN 
+    - String
+A book’s price
+    - decimal
+A book’s shipping weight
+    - float
+A country’s population
+    - long
+The number of stars in the universe
+    - double
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business)
+    - int
+
+
+Question 2:
+Differences between values type and references type variables includes:
+1.Value type will hold the value while reference type will hold the memory address or reference for this value. 
+2. Value types are stored in stack memory while reference types are stored in heap memory. 
+3. Value type will not be collected by the garbage collector but reference type will be collected by the garbage collector. 
+4. The value type can be created by struct or enum while reference type will be created by class, interface, delegate or array. 
+5. Value type can not accept null values whereas reference type can accept null values.
+
+Boxing represents the conversion of the value type to the reference type/object type 
+Unboxing represents the conversion of the reference type to the value type
+
+
+Question 3:
+They are related to memory management.
+Managed resource is the resource handled by the .NET runtime and garbage collector.
+Unmanaged resource is not directly handled by the .NET runtime, and it requires explicit cleanup using Dispose() method of IDisposable interface
+
+
+Question 4:
+The garbage collector manages the allocation and release of memory for an application.
+This means that we don't have to write code to perform memory management tasks. 
+Automatic memory management can eliminate common problems, such as forgetting to free an object and causing a memory leak or attempting to access memory for an object that's already been freed.
+
+
+
+1. What happens when you divide an int variable by 0?
+    - C# doesn't allow dividing integer by 0. Therefore, the program will crush and throw the DivideByZeroException error.
+    
+    
+2. What happens when you divide a double variable by 0?
+    - Dividing double by 0 is allowed, and the results differ based on the variable.
+    If the numerator is positive, the result is positive infinity(∞).
+    If the numerator is negative, the result is negative infinity(-∞).
+    If the numerator is 0, the result is NaN.
+
+
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+range?
+    - In unchecked context, the value will wrap around.
+      In checked context, the program will throw OverflowException.
+
+
+4. What is the difference between x = y++; and x = ++y;?
+    - For x = y++;, y is assigned to x first, and then y is incremented by 1.
+      For x = ++y;, y is incremented by 1 first, and then the new value of y is assigned to x.
+    
+    
+5. What is the difference between break, continue, and return when used inside a loop
+statement?
+    - break:
+        Terminates the entire loop immediately and exits it.
+      continue:
+        Skips the remaining code in the current iteration and moves to the next iteration of the loop.
+      return:
+        Exits the loop and the enclosing method immediately, returning control to the caller.
+
+
+6. What are the three parts of a for statement and which of them are required?
+    - Initialization: Sets up a variable.
+      Condition: Determines whether the loop should continue.
+      Iteration: Updates the variable after each loop iteration.
+      
+      All parts are optional, but the semicolons (;) must remain.
+
+
+7. What is the difference between the = and == operators?
+    - '=' is assignment operator, it is used to assign the value on right side to the variable on left side.
+      '==' is equality operator, it is used to compare two values. It returns true if two values are equal, otherwise false.
+    
+
+8. Does the following statement compile? for ( ; true; ) ;
+    - Yes, it compiles. Because all the parts in the for loop are optional. This statement will cause indefinite loop.
+    
+    
+9. What does the underscore _ represent in a switch expression?
+    - It represents the default case in a switch expression. It matches any value not matched by other patterns.
+    
+    
+10. What interface must an object implement to be enumerated over by using the foreach
+statement?
+    - It must implement System.Collections.IEnumerable or System.Collections.Generic.IEnumerable<T> to use the foreach.
+
+
+Question 
+The given will cause indefinite loop, because byte ranges from 0 to 255.
+When i exceeds 255, it will wrap around to 0 and increase again and again.
+
+To warn about the problem, we can add following code.
+
+int max = 500;
+for (byte i = 0; i < max; i++)
+{
+    if (i == byte.MaxValue)
+    {
+        Console.WriteLine("Warning: Byte overflow is imminent!");
+    }
+    Console.WriteLine(i);
+}
