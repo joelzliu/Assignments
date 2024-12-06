@@ -2,47 +2,41 @@
 {
     static void Main()
     {
-        int[] numbers1 = { 4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3 };
-        FindMostFrequentNumbers(numbers1);
+        int[] nums1 = { 4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3 };
+        FindMostFreqNum(nums1);
 
-        int[] numbers2 = { 7, 7, 7, 0, 2, 2, 2, 0, 10, 10, 10 };
-        FindMostFrequentNumbers(numbers2);
+        int[] nums2 = { 7, 7, 7, 0, 2, 2, 2, 0, 10, 10, 10 };
+        FindMostFreqNum(nums2);
     }
 
-    static void FindMostFrequentNumbers(int[] numbers)
+    static void FindMostFreqNum(int[] nums)
     {
-        Dictionary<int, int> frequency = new Dictionary<int, int>();
-        int maxFrequency = 0;
+        Dictionary<int, int> freqs = new Dictionary<int, int>();
+        int maxFreq = 0;
 
-        foreach (int number in numbers)
+        foreach(int num in nums)
         {
-            if (!frequency.ContainsKey(number))
-            {
-                frequency[number] = 0;
-            }
-            frequency[number]++;
-            maxFrequency = Math.Max(maxFrequency, frequency[number]);
+            if(!freqs.ContainsKey(num))
+                freqs[num] = 0;
+            freqs[num]++;
+            maxFreq = Math.Max(maxFreq, freqs[num]);
         }
 
-        List<int> mostFrequentNumbers = new List<int>();
-        foreach (var kvp in frequency)
+        List<int> mostFreqNums = new List<int>();
+        foreach(var kvp in freqs)
         {
-            if (kvp.Value == maxFrequency)
-            {
-                mostFrequentNumbers.Add(kvp.Key);
-            }
+            if (kvp.Value == maxFreq)
+                mostFreqNums.Add(kvp.Key);
         }
 
-        int leftmostNumber = mostFrequentNumbers[0];
-        foreach (int number in mostFrequentNumbers)
+        int leftmostNum = mostFreqNums[0];
+        foreach(int num in mostFreqNums)
         {
-            if (Array.IndexOf(numbers, number) < Array.IndexOf(numbers, leftmostNumber))
-            {
-                leftmostNumber = number;
-            }
+            if(Array.IndexOf(nums, num) < Array.IndexOf(nums, leftmostNum))
+                leftmostNum = num;
         }
 
-        Console.WriteLine($"The most frequent number(s): {string.Join(", ", mostFrequentNumbers)} (occurs {maxFrequency} times).");
-        Console.WriteLine($"The leftmost most frequent number is: {leftmostNumber}.");
+        Console.WriteLine($"The most frequent number(s): {string.Join(", ", mostFreqNums)} (occurs {maxFreq} times).");
+        Console.WriteLine($"The leftmost most frequent number is: {leftmostNum}.");
     }
 }

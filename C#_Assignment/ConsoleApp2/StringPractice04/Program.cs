@@ -10,9 +10,7 @@
         };
 
         foreach (string url in urls)
-        {
             ParseUrl(url);
-        }
     }
 
     static void ParseUrl(string url)
@@ -22,24 +20,23 @@
         string resource = "";
 
         int protocolEnd = url.IndexOf("://");
-        if (protocolEnd != -1)
+        if(protocolEnd != -1)
         {
             protocol = url.Substring(0, protocolEnd);
-            url = url.Substring(protocolEnd + 3); // Remove protocol and "://"
+            url = url.Substring(protocolEnd + 3);
         }
 
         int resourceStart = url.IndexOf("/");
-        if (resourceStart != -1)
+        if(resourceStart != -1)
         {
             server = url.Substring(0, resourceStart);
-            resource = url.Substring(resourceStart + 1); // Remove "/"
+            resource = url.Substring(resourceStart + 1);
         }
         else
         {
-            server = url; // If no resource part
+            server = url;
         }
 
-        // Output parsed components
         Console.WriteLine($"[protocol] = \"{protocol}\"");
         Console.WriteLine($"[server] = \"{server}\"");
         Console.WriteLine($"[resource] = \"{resource}\"");

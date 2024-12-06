@@ -13,24 +13,20 @@
         for (int i = Math.Max(startNum, 2); i <= endNum; i++)
         {
             if (IsPrime(i))
-            {
                 primes.Add(i);
-            }
         }
 
         return primes.ToArray();
     }
 
-    static bool IsPrime(int number)
+    static bool IsPrime(int num)
     {
-        if (number < 2) return false;
+        if(num < 2) return false;
 
-        for (int i = 2; i <= Math.Sqrt(number); i++)
+        for(int i = 2; i * i <= num; i++)
         {
-            if (number % i == 0)
-            {
+            if(num % i == 0)
                 return false;
-            }
         }
 
         return true;

@@ -2,21 +2,22 @@
 {
     static void Main()
     {
-        List<string> itemList = new List<string>(); // List to store the items
-        string command;
+        List<string> itemList = new List<string>();
 
-        while (true) // Infinite loop
+        while (true)
         {
             Console.WriteLine("Enter command (+ item, - item, or -- to clear):");
-            command = Console.ReadLine();
+            string command = Console.ReadLine();
 
-            if (string.IsNullOrWhiteSpace(command)) // Handle empty input
+            if(string.IsNullOrWhiteSpace(command))
+            {
                 continue;
+            }
 
-            if (command.StartsWith("+")) // Add item
+            if(command.StartsWith("+"))
             {
                 string itemToAdd = command.Substring(1).Trim();
-                if (!string.IsNullOrEmpty(itemToAdd))
+                if(!string.IsNullOrEmpty(itemToAdd))
                 {
                     itemList.Add(itemToAdd);
                     Console.WriteLine($"Added: {itemToAdd}");
@@ -28,7 +29,7 @@
             }
             else if (command.StartsWith("-"))
             {
-                if (command == "--")
+                if(command == "--")
                 {
                     itemList.Clear();
                     Console.WriteLine("List cleared.");
@@ -42,7 +43,7 @@
                     }
                     else
                     {
-                        Console.WriteLine($"Item '{itemToRemove}' not found in the list.");
+                        Console.WriteLine($"Item '{itemToRemove}' not found.");
                     }
                 }
             }
@@ -51,7 +52,6 @@
                 Console.WriteLine("Invalid command. Use + to add, - to remove, or -- to clear.");
             }
 
-            // Display current list contents
             Console.WriteLine("Current List: " + (itemList.Count > 0 ? string.Join(", ", itemList) : "Empty"));
         }
     }

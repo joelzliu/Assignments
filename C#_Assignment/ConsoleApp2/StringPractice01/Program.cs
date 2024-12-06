@@ -9,6 +9,6 @@
         Array.Reverse(charArray);
         string reversed = new string(charArray);
 
-        Console.WriteLine($"Reversed is {reversed}");
+        Console.WriteLine(reversed);
     }
 }

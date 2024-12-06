@@ -4,37 +4,37 @@ class Program
 {
     static void Main()
     {
-        int[] array = { 2, 1, 1, 2, 2, 2, 3, 3, 3, 2, 2, 1 };
-        int[] result = FindLongestSequence(array);
-        Console.WriteLine(string.Join(" ", result));
+        int[] arr1 = {2, 1, 1, 2, 2, 2, 3, 3, 3, 2, 2, 1};
+        int[] res1 = FindLongestSequence(arr1);
+        Console.WriteLine(string.Join(" ", res1));
+        
+        int[] arr2 = {0, 1, 1, 5, 2, 2, 6, 3, 3};
+        int[] res2 = FindLongestSequence(arr2);
+        Console.WriteLine(string.Join(" ", res2));
     }
 
-    static int[] FindLongestSequence(int[] array)
+    static int[] FindLongestSequence(int[] arr)
     {
-        int maxLength = 1;
-        int currentLength = 1;
-        int bestStartIndex = 0;
+        int maxLen = 1;
+        int currLen = 1;
+        int startIdx = 0;
 
-        for (int i = 1; i < array.Length; i++)
+        for(int i = 1; i < arr.Length; i++)
         {
-            if (array[i] == array[i - 1])
-            {
-                currentLength++;
-            }
+            if(arr[i] == arr[i - 1])
+                currLen++;
             else
-            {
-                currentLength = 1;
-            }
+                currLen = 1;
 
-            if (currentLength > maxLength)
+            if(currLen > maxLen)
             {
-                maxLength = currentLength;
-                bestStartIndex = i - maxLength + 1;
+                maxLen = currLen;
+                startIdx = i - maxLen + 1;
             }
         }
 
-        int[] longestSequence = new int[maxLength];
-        Array.Copy(array, bestStartIndex, longestSequence, 0, maxLength);
-        return longestSequence;
+        int[] longestSeq = new int[maxLen];
+        Array.Copy(arr, startIdx, longestSeq, 0, maxLen);
+        return longestSeq;
     }
 }

@@ -13,9 +13,9 @@
         Console.WriteLine(string.Join(" ", res2));
     }
 
-    static int[] RotateAndSum(int[] array, int k)
+    static int[] RotateAndSum(int[] arr, int k)
     {
-        int n = array.Length;
+        int n = arr.Length;
         int[] sum = new int[n];
 
         for(int r = 1; r <= k; r++)
@@ -23,14 +23,10 @@
             int[] rotated = new int[n];
 
             for(int i = 0; i < n; i++)
-            {
-                rotated[(i + r) % n] = array[i];
-            }
+                rotated[(i + r) % n] = arr[i];
 
             for(int i = 0; i < n; i++)
-            {
                 sum[i] += rotated[i];
-            }
         }
 
         return sum;

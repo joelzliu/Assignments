@@ -1,37 +1,64 @@
-﻿using System;
-using System.Text.RegularExpressions;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
-        Console.WriteLine("Enter a sentence:");
-        string sentence = Console.ReadLine();
+        string input1 = "C# is not C++, and PHP is not Delphi!";
+        string input2 = "The quick brown fox jumps over the lazy dog /Yes! Really!!!/.";
 
-        // Define separators as regex
-        string pattern = @"[.,;:()&[\]""'/!? ]"; // Word separators
-        string[] words = Regex.Split(sentence, pattern); // Split words by separators
-        string[] separators = Regex.Matches(sentence, pattern).Select(m => m.Value).ToArray();
+        Console.WriteLine(ReverseWords(input1));
+        Console.WriteLine(ReverseWords(input2));
+    }
 
-        // Reverse the words
-        Array.Reverse(words);
+    static string ReverseWords(string sentence)
+    {
+        char[] separators = { '.', ',', ';', ':', '(', ')', '&', '[', ']', '"', '\'', '/', '!', '?', ' ' };
+        List<string> words = new List<string>();
+        List<string> separatorsList = new List<string>();
 
-        // Reconstruct the sentence
-        string result = string.Empty;
-        for (int i = 0; i < separators.Length; i++)
+        string currWord = "";
+        foreach(char ch in sentence)
         {
-            if (i < words.Length && !string.IsNullOrEmpty(words[i]))
+            if(Array.Exists(separators, sep => sep == ch))
             {
-                result += words[i];
+                if(!string.IsNullOrEmpty(currWord))
+                {
+                    words.Add(currWord);
+                    currWord = "";
+                }
+
+                separatorsList.Add(ch.ToString());
             }
-            result += separators[i];
+            else
+            {
+                currWord += ch;
+            }
         }
 
-        if (words.Length > separators.Length) // Add any leftover words
+        // Add the last word
+        if(!string.IsNullOrEmpty(currWord))
         {
-            result += words[words.Length - 1];
+            words.Add(currWord);
         }
 
-        Console.WriteLine($"Reversed sentence: {result}");
+        words.Reverse();
+
+        string res = "";
+        int wordIdx = 0;
+
+        foreach(string separator in separatorsList)
+        {
+            if (wordIdx < words.Count)
+            {
+                res += words[wordIdx];
+                wordIdx++;
+            }
+
+            res += separator;
+        }
+
+        if (wordIdx < words.Count)
+            res += words[wordIdx];
+
+        return res;
     }
 }
