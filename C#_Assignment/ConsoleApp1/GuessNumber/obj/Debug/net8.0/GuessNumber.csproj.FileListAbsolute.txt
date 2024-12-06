@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/bin/Debug/net8.0/GuessNumber
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/bin/Debug/net8.0/GuessNumber.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/bin/Debug/net8.0/GuessNumber.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/bin/Debug/net8.0/GuessNumber.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/bin/Debug/net8.0/GuessNumber.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/GuessNumber.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/GuessNumber.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/GuessNumber.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/GuessNumber.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/GuessNumber.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/refint/GuessNumber.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/GuessNumber.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/GuessNumber.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp1/GuessNumber/obj/Debug/net8.0/ref/GuessNumber.dll

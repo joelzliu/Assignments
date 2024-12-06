@@ -1,0 +1,14 @@
+The given will cause indefinite loop, because byte ranges from 0 to 255.
+When i exceeds 255, it will wrap around to 0 and increase again and again.
+
+To warn about the problem, we can add following code.
+
+int max = 500;
+for (byte i = 0; i < max; i++)
+{
+    if (i == byte.MaxValue)
+    {
+        Console.WriteLine("Warning: Byte overflow is imminent!");
+    }
+    Console.WriteLine(i);
+}
