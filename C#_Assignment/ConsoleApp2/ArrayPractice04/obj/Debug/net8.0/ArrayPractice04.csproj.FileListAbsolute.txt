@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/bin/Debug/net8.0/ArrayPractice04
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/bin/Debug/net8.0/ArrayPractice04.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/bin/Debug/net8.0/ArrayPractice04.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/bin/Debug/net8.0/ArrayPractice04.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/bin/Debug/net8.0/ArrayPractice04.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ArrayPractice04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ArrayPractice04.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ArrayPractice04.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ArrayPractice04.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ArrayPractice04.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ArrayPractice04.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/refint/ArrayPractice04.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ArrayPractice04.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ArrayPractice04.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice04/obj/Debug/net8.0/ref/ArrayPractice04.dll

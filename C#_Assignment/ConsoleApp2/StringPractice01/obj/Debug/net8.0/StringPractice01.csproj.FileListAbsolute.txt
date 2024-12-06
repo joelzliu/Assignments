@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/bin/Debug/net8.0/StringPractice01
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/bin/Debug/net8.0/StringPractice01.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/bin/Debug/net8.0/StringPractice01.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/bin/Debug/net8.0/StringPractice01.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/bin/Debug/net8.0/StringPractice01.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/StringPractice01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/StringPractice01.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/StringPractice01.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/StringPractice01.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/StringPractice01.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/StringPractice01.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/refint/StringPractice01.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/StringPractice01.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/StringPractice01.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/StringPractice01/obj/Debug/net8.0/ref/StringPractice01.dll
