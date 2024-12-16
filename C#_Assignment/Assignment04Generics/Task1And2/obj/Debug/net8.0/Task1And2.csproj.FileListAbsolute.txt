@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/bin/Debug/net8.0/Task1And2
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/bin/Debug/net8.0/Task1And2.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/bin/Debug/net8.0/Task1And2.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/bin/Debug/net8.0/Task1And2.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/bin/Debug/net8.0/Task1And2.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/Task1And2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/Task1And2.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/Task1And2.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/Task1And2.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/Task1And2.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/Task1And2.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/refint/Task1And2.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/Task1And2.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/Task1And2.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1And2/obj/Debug/net8.0/ref/Task1And2.dll

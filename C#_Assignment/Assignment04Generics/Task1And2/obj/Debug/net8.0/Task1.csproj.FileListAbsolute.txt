@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/bin/Debug/net8.0/Task1
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/bin/Debug/net8.0/Task1.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/Task1.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment04Generics/Task1/obj/Debug/net8.0/ref/Task1.dll
