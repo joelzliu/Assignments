@@ -19,7 +19,6 @@
       "packagesPath": "/Users/joelliu/.nuget/packages/",
       "outputPath": "/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/ConsoleApp2/ArrayPractice01/obj/",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/joelliu/.nuget/NuGet/NuGet.Config"
       ],
