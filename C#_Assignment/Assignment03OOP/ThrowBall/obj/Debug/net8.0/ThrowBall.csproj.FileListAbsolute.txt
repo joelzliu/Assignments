@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/bin/Debug/net8.0/ThrowBall
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/bin/Debug/net8.0/ThrowBall.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/bin/Debug/net8.0/ThrowBall.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/bin/Debug/net8.0/ThrowBall.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/bin/Debug/net8.0/ThrowBall.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ThrowBall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ThrowBall.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ThrowBall.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ThrowBall.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ThrowBall.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ThrowBall.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/refint/ThrowBall.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ThrowBall.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ThrowBall.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/ThrowBall/obj/Debug/net8.0/ref/ThrowBall.dll

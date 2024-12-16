@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment03OOP", "Assignment03OOP\Assignment03OOP.csproj", "{0688C7E3-9862-41EA-8EC9-74E0289DFA50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseAndFibonacci", "ReverseAndFibonacci\ReverseAndFibonacci.csproj", "{0688C7E3-9862-41EA-8EC9-74E0289DFA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDemo", "OOPDemo\OOPDemo.csproj", "{9FB60EA6-ED2A-45E4-8E11-BC4472A7B02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowBall", "ThrowBall\ThrowBall.csproj", "{7F8E5085-B87E-4347-9B12-2C3DB0ECC9C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{0688C7E3-9862-41EA-8EC9-74E0289DFA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0688C7E3-9862-41EA-8EC9-74E0289DFA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0688C7E3-9862-41EA-8EC9-74E0289DFA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB60EA6-ED2A-45E4-8E11-BC4472A7B02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB60EA6-ED2A-45E4-8E11-BC4472A7B02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB60EA6-ED2A-45E4-8E11-BC4472A7B02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB60EA6-ED2A-45E4-8E11-BC4472A7B02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8E5085-B87E-4347-9B12-2C3DB0ECC9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8E5085-B87E-4347-9B12-2C3DB0ECC9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8E5085-B87E-4347-9B12-2C3DB0ECC9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8E5085-B87E-4347-9B12-2C3DB0ECC9C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

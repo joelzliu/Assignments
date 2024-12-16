@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/bin/Debug/net8.0/OOPDemo
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/bin/Debug/net8.0/OOPDemo.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/bin/Debug/net8.0/OOPDemo.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/bin/Debug/net8.0/OOPDemo.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/bin/Debug/net8.0/OOPDemo.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/OOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/OOPDemo.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/OOPDemo.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/OOPDemo.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/OOPDemo.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/OOPDemo.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/refint/OOPDemo.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/OOPDemo.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/OOPDemo.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/OOPDemo/obj/Debug/net8.0/ref/OOPDemo.dll

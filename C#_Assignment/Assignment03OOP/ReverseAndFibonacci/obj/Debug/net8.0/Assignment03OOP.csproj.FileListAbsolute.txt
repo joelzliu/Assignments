@@ -1,0 +1,15 @@
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/bin/Debug/net8.0/Assignment03OOP
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/bin/Debug/net8.0/Assignment03OOP.deps.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/bin/Debug/net8.0/Assignment03OOP.runtimeconfig.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/bin/Debug/net8.0/Assignment03OOP.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/bin/Debug/net8.0/Assignment03OOP.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/Assignment03OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/Assignment03OOP.AssemblyInfoInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/Assignment03OOP.AssemblyInfo.cs
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/Assignment03OOP.csproj.CoreCompileInputs.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/Assignment03OOP.sourcelink.json
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/Assignment03OOP.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/refint/Assignment03OOP.dll
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/Assignment03OOP.pdb
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/Assignment03OOP.genruntimeconfig.cache
+/Users/joelliu/Desktop/Antra_Assignments/Assignments/C#_Assignment/Assignment03OOP/Assignment03OOP/obj/Debug/net8.0/ref/Assignment03OOP.dll
